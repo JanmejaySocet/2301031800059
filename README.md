@@ -1,7 +1,7 @@
 # AI Nutrition Planner
 
 ## 🚀 Live Demo
-[Visit AI Nutrition Planner](janmejay.tech)
+[Visit AI Nutrition Planner](https://janmejay.tech/)
 
 ## 📌 Overview
 AI Nutrition Planner is an intelligent meal planning system that generates personalized meal plans based on dietary preferences, health goals, and nutritional requirements.
